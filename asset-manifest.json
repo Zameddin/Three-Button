@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Three-Button/static/css/main.633d9e39.css",
+    "main.js": "/Three-Button/static/js/main.7b36e858.js",
+    "static/js/787.46b7331a.chunk.js": "/Three-Button/static/js/787.46b7331a.chunk.js",
+    "index.html": "/Three-Button/index.html",
+    "main.633d9e39.css.map": "/Three-Button/static/css/main.633d9e39.css.map",
+    "main.7b36e858.js.map": "/Three-Button/static/js/main.7b36e858.js.map",
+    "787.46b7331a.chunk.js.map": "/Three-Button/static/js/787.46b7331a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.633d9e39.css",
+    "static/js/main.7b36e858.js"
+  ]
+}
